@@ -711,6 +711,13 @@ img {
   font-size: var(--h3-font-size);
   margin-bottom: var(--mb-0-5);
 }
+
+.design__title {
+  font-size: var(--h3-font-size);
+  margin-bottom: var(--mb-0-5);
+  text-align: center;
+}
+
 .portfolio__description {
   margin-bottom: var(--mb-0-75);
 }
